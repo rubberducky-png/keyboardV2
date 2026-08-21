@@ -61,22 +61,15 @@ Some of the biggest challenges included:
 
 | # | Component | Qty. | Cost |
 |---:|---|---:|---:|
-| 1 | Gateron Milky Yellow Pro Switches | 90 | $28.00 |
-| 2 | 1N4148 Diodes | 82 | $2.46 |
-| 3 | Cherry-style Stabilizer Set | 1 | $6.00 |
+| 1 | Glorious Fox Linear Mechanical Switches | 110 | $24.99 |
+| 2 | 1N4148 Diodes | 120 | $5.99 |
+| 3 | GATERON PCB Mounted Stabilizer | 1 | $9.10 |
 | 4 | ALPS EC11E Rotary Encoder | 1 | $2.75 |
 | 5 | Raspberry Pi Pico | 1 | $3.95 |
-| 6 | RN4871U-V/RM118 Bluetooth Module | 1 | $7.65 |
-| 7 | 0805 Resistors | 2 | $0.04 |
-| 8 | 0603 100nF Capacitor | 1 | $0.02 |
-| 9 | 0805 Status LED | 1 | $0.05 |
-| 10 | M2 Case Screws | 12 | $1.20 |
-| 11 | M2 Heat-Set Inserts | 4 | $0.60 |
-| 12 | JLCPCB PCB Fabrication | 5 | $27.20 |
-| 13 | Glorious GPBT Basics Keycaps | 1 | $17.49 |
-| 14 | USB-C to Micro-USB Cable | 1 | $6.00 |
-| 15 | PETG/PLA Filament | 1 | $12.00 |
-| 16 | JLCPCB DHL Express Shipping | 1 | $27.96 |
+| 6 | 0805 Resistors | 2 | $0.04 |
+| 7 | 0603 100nF Capacitor | 1 | $0.02 |
+| 11 | JLCPCB PCB Fabrication + shipping | 5 | $24.14 |
+| 12 | Glorious GPBT Basics Keycaps | 1 | $17.49 |
 | | **Total** | | **$144.42** |
 
 
