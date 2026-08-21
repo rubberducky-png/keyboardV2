@@ -20,6 +20,7 @@ Funded With The Macondo Program
 
 I built another keyboard before this and ended up hating how it looked and how I desgined it. So I went back to the drawing board and decided to make one I would actually like.
 
+
 ## Design Process
 
 The project began by selecting a 61-key layout that has a lot of function but is also on the smaller side. I then designed the PCB in KiCad, routed all the traces, and added support for hot-swap sockets and USB-C connectivity. After the electronics were complete I designed a simple tray mount in Onshape. The case is made out of two PLA printed pieces and includes a shelf for the pcb to rest on. Because of small bed size I will have to print them in pieces.
@@ -39,17 +40,20 @@ Some of the biggest challenges included:
 ## Images and Renders!
 
 ### Matrix Schematic
-
+<img width="1280" height="754" alt="Screenshot 2026-07-24 220902" src="https://github.com/user-attachments/assets/bbcec30d-22e3-4f54-ae42-53581c906ddc" />
 
 ### OnShape Render
 
 #### Case
+<img width="1601" height="654" alt="Screenshot 2026-08-20 222908" src="https://github.com/user-attachments/assets/b33fddbe-147e-4642-8d50-def82bc8a32e" />
 
 
 ### PCB
-<img width="1112" height="519" alt="image" src="https://github.com/user-attachments/assets/f377088d-d057-4555-9f10-83b966d3cdee" /
+<img width="1919" height="1079" alt="Screenshot 2026-08-16 103832" src="https://github.com/user-attachments/assets/cdd52b1b-5f1f-4d87-a885-b6e2d17bd9be" />
+
 
 ### Assembly
+<img width="1919" height="1032" alt="Screenshot 2026-08-20 222702" src="https://github.com/user-attachments/assets/8f279e6a-98bf-4592-80f4-fa8ea8ea1d24" />
 
 
 
