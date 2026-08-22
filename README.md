@@ -64,13 +64,16 @@ Some of the biggest challenges included:
 | 1 | Glorious Fox Linear Mechanical Switches | 110 | $24.99 |
 | 2 | 1N4148 Diodes | 120 | $5.99 |
 | 3 | GATERON PCB Mounted Stabilizer | 1 | $9.10 |
-| 4 | ALPS EC11E Rotary Encoder | 1 | $2.75 |
-| 5 | Raspberry Pi Pico | 1 | $3.95 |
-| 6 | 0805 Resistors | 2 | $0.04 |
-| 7 | 0603 100nF Capacitor | 1 | $0.02 |
-| 11 | JLCPCB PCB Fabrication + shipping | 5 | $24.14 |
-| 12 | Glorious GPBT Basics Keycaps | 1 | $17.49 |
-| | **Total** | | **$144.42** |
+| 4 | SuperMini nRF52840 | 1 | $13.99 |
+| 5 | SK6812MINI-E | 100 | $18 |
+| 6 | Kalih Hotswap sockets | 100 | $12.50 |
+| 7 | JLCPCB PCB Fabrication + shipping | 5 | $24.14 |
+| 8 | 3.7V LiPo cell rated ~750mAh | 1 | $8.49 |
+| 9 | JST-PH, 2mm pitch connector | 1 | $5.99 |
+| 10 | standard SPDT slide switch, 0.1" (2.54mm) pin spacing | 1 | $7.99 |
+| 11 | 2 Pin Momentary Tactile Tact Push Button | 1 | $5.99 |
+| 12 | Womier Double Shot PBT Keycaps Set Cherry Profile | 1 | $17.99 |
+| | **Total** | | **$155.16** |
 
 
 ## Shoutout hackclub and the macondo program
