@@ -1,0 +1,14 @@
+SI No.,Name,Notes,Quantity,Price Per Unit,Cost,Total,Link
+1,Glorious Fox Linear Mechanical Switches,MX-compatible linear switches; 110-pack,110,0.2272,24.99,,https://www.amazon.com/GLORIOUS-Linear-Mechanical-Switches-Keyboards/dp/B0D7QW8SQ9
+2,1N4148 Diodes,Through-hole switching diodes for keyboard matrix,120,0.0499,5.99,,https://www.amazon.com/120Pcs-Rectifier-100Volt-Electronic-Silicon/dp/B0DN62QFYS
+3,GATERON PCB Mounted Stabilizer,"Set for stabilizing larger keys (spacebar, shift, enter)",1,9.10,9.10,,https://www.gateron.com/products/gateron-pcb-mounted-stabilizer?VariantsId=10538
+4,SuperMini nRF52840,"Pro Micro alternative BLE dev board, ZMK/Nice!Nano compatible",1,13.99,13.99,,https://www.amazon.com/AITRIP-Development-Bluetooth-Management-Module%EF%BC%8CNano/dp/B0DCZJKYL1
+5,SK6812MINI-E,"Addressable per-key RGB LED, 100-pack",100,0.18,18.00,,https://www.amazon.com/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V
+6,Kalih Hotswap sockets,"MX-compatible hotswap sockets, 100-pack",100,0.125,12.50,,https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B096WZ6TJ5
+7,JLCPCB PCB Fabrication + shipping,5 PCBs; manufacturing + shipping from actual quote,5,4.828,24.14,,https://jlcpcb.com
+8,3.7V LiPo cell rated ~750mAh,Rechargeable lithium polymer cell w/ JST-PH connector,1,8.49,8.49,,https://www.amazon.com/YTKavq-Battery-Lithium-Rechargeable-Connector/dp/B08TV4J9H7
+9,"JST-PH, 2mm pitch connector",Battery connector; female socket w/ silicone cable,1,5.99,5.99,,https://www.amazon.com/JST-PH-Connector-Silicone-Cables-Female/dp/B0F9PD2LPW
+10,"standard SPDT slide switch, 0.1"" (2.54mm) pin spacing",On/off power switch,1,7.99,7.99,,https://www.amazon.com/SPDT-Mini-Micro-Slide-Switch/dp/B0DN69PJ43
+11,2 Pin Momentary Tactile Tact Push Button,Reset button,1,5.99,5.99,,https://www.amazon.com/Momentary-Tactile-Switches-Through-Breadboard/dp/B0G5Q9RPJW
+12,Womier Double Shot PBT Keycaps Set Cherry Profile,"Doubleshot PBT keycap set, Cherry profile",1,17.99,17.99,,https://www.amazon.com/Keycaps-Doubleshot-Percent-Mechanical-Keyboard/dp/B0DDC6PNY6
+,,,,,,155.16,
