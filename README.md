@@ -73,7 +73,9 @@ Some of the biggest challenges included:
 | 10 | standard SPDT slide switch, 0.1" (2.54mm) pin spacing | 1 | $7.99 |
 | 11 | 2 Pin Momentary Tactile Tact Push Button | 1 | $5.99 |
 | 12 | Womier Double Shot PBT Keycaps Set Cherry Profile | 1 | $17.99 |
-| | **Total** | | **$155.16** |
+| 13 | 100nF capacitors | 1 | $4.99 |
+| 13 | Chip Capacitor MLCC 22uF | 1 | $7.60 |
+| | **Total** | | **$167.75** |
 
 
 ## Shoutout hackclub and the macondo program
