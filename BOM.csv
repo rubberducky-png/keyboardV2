@@ -5,7 +5,7 @@ SI No.,Name,Notes,Quantity,Price Per Unit,Cost,Total,Link
 4,SuperMini nRF52840,"Pro Micro alternative BLE dev board, ZMK/Nice!Nano compatible",1,13.99,13.99,,https://www.amazon.com/AITRIP-Development-Bluetooth-Management-Module%EF%BC%8CNano/dp/B0DCZJKYL1
 5,SK6812MINI-E,"Addressable per-key RGB LED, 100-pack",100,0.18,18.00,,https://www.amazon.com/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V
 6,Kailh Hotswap sockets,"MX-compatible hotswap sockets, 100-pack",100,0.125,12.50,,https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B096WZ6TJ5
-7,JLCPCB PCB Fabrication + shipping,5 PCBs; manufacturing + shipping from actual quote,5,4.828,24.14,,https://jlcpcb.com
+7,JLCPCB PCB Fabrication + shipping,5 PCBs; manufacturing + shipping from actual quote,,,35.03,,https://jlcpcb.com
 8,3.7V LiPo cell rated ~750mAh,Rechargeable lithium polymer cell w/ JST-PH connector,1,8.49,8.49,,https://www.amazon.com/YTKavq-Battery-Lithium-Rechargeable-Connector/dp/B08TV4J9H7
 9,"JST-PH, 2mm pitch connector",Battery connector; female socket w/ silicone cable,1,5.99,5.99,,https://www.amazon.com/JST-PH-Connector-Silicone-Cables-Female/dp/B0F9PD2LPW
 10,"standard SPDT slide switch, 0.1"" (2.54mm) pin spacing",On/off power switch,1,7.99,7.99,,https://www.amazon.com/SPDT-Mini-Micro-Slide-Switch/dp/B0DN69PJ43
