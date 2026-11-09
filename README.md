@@ -63,24 +63,43 @@ Some of the biggest challenges included:
 
 ## Bill of Materials (BOM)
 
-| # | Component | Qty. | Cost |
-|---:|---|---:|---:|
-| 1 | Glorious Fox Linear Mechanical Switches | 110 | $24.99 |
-| 2 | 1N4148 Diodes | 120 | $5.99 |
-| 3 | GATERON PCB Mounted Stabilizer | 1 | $9.10 |
-| 4 | SuperMini nRF52840 | 1 | $13.99 |
-| 5 | SK6812MINI-E | 100 | $18 |
-| 6 | Kalih Hotswap sockets | 100 | $12.50 |
-| 7 | JLCPCB PCB Fabrication + shipping | 5 | $24.14 |
-| 8 | 3.7V LiPo cell rated ~750mAh | 1 | $8.49 |
-| 9 | JST-PH, 2mm pitch connector | 1 | $5.99 |
-| 10 | standard SPDT slide switch, 0.1" (2.54mm) pin spacing | 1 | $7.99 |
-| 11 | 2 Pin Momentary Tactile Tact Push Button | 1 | $5.99 |
-| 12 | Womier Double Shot PBT Keycaps Set Cherry Profile | 1 | $17.99 |
-| 13 | 100nF capacitors | 1 | $4.99 |
-| 13 | Chip Capacitor MLCC 22uF | 1 | $7.60 |
-| | **Total** | | **$167.75** |
+The following table lists the components required to build the custom 60% wireless mechanical keyboard.
 
+| # | Component | Description | Quantity | Unit Price | Subtotal |
+|---:|---|---|---:|---:|---:|
+| 1 | [Glorious Fox Linear Switches](https://www.amazon.com/GLORIOUS-Linear-Mechanical-Switches-Keyboards/dp/B0D7QW8SQ9) | MX-compatible linear switches, 110-pack | 110 | $0.2272 | $24.99 |
+| 2 | [Gateron PCB-Mounted Stabilizers](https://www.amazon.com/gp/product/B0BZYK3X1S) | PCB-mounted stabilizer set for larger keys | 1 set | $9.99 | $9.99 |
+| 3 | [SuperMini nRF52840](https://www.amazon.com/AITRIP-Development-Bluetooth-Management-Module%EF%BC%8CNano/dp/B0DCZJKYL1) | Pro Micro alternative; Bluetooth LE and ZMK compatible | 1 | $13.99 | $13.99 |
+| 4 | [SK6812MINI-E RGB LEDs](https://www.amazon.com/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) | Individually addressable per-key RGB LEDs, 100-pack | 100 | $0.15 | $15.46 |
+| 5 | [Kailh Hot-Swap Sockets](https://www.amazon.com/Hot-swappable-Socket-CPG151101S11-Mechanical-Keyboard/dp/B096WZ6TJ5) | MX-compatible hot-swap sockets, 100-pack | 100 | $0.125 | $12.50 |
+| 6 | [JLCPCB PCB Fabrication](https://jlcpcb.com) | Custom PCB manufacturing, 5 boards, including shipping | 1 order | — | $35.03 |
+| 7 | [3.7V LiPo Battery](https://www.amazon.com/YTKavq-Battery-Lithium-Rechargeable-Connector/dp/B08TV4J9H7) | Rechargeable lithium polymer battery, approximately 1000mAh, JST-PH connector | 1 | $7.59 | $7.59 |
+| 8 | [JST-PH 2.0mm Connector](https://www.amazon.com/JST-PH-Connector-Silicone-Cables-Female/dp/B0F9PD2LPW) | 2-pin battery connector with silicone wiring | 1 | $5.99 | $5.99 |
+| 9 | [SPDT Slide Switch](https://www.amazon.com/gp/product/B0DN67RV4W) | Power on/off switch, 2.54mm pin spacing | 1 | $6.99 | $6.99 |
+| 10 | [Momentary Tactile Push Button](https://www.amazon.com/Momentary-Tactile-Switches-Through-Breadboard/dp/B0G5Q9RPJW) | Reset button | 1 | $5.99 | $5.99 |
+| 11 | [Womier Double-Shot PBT Keycaps](https://www.amazon.com/Keycaps-Doubleshot-Percent-Mechanical-Keyboard/dp/B0DDC6PNY6) | Cherry-profile double-shot PBT keycap set | 1 set | $17.99 | $17.99 |
+| 12 | [22µF 0805 MLCC Capacitors](https://www.amazon.com/Chip-Capacitor-MLCC-22uF-CS2012X5R226M250NRE/dp/B096WDCLWY) | X5R ceramic capacitors for power filtering, 10-pack | 10 | $0.499 | $4.99 |
+| 13 | [CHANZON 100nF 0805 Capacitors](https://www.amazon.com/CHANZON-100nF-Ceramic-Capacitor-100pcs/dp/B0GWH4RRQS) | LED decoupling capacitors, 100-pack | 100 | $0.076 | $7.60 |
+
+### Cost Summary
+
+| Category | Cost |
+|---|---:|
+| Components and hardware | $134.07 |
+| PCB fabrication and shipping | $35.03 |
+| **Total Project Cost** | **$169.10** |
+
+*Prices are based on the listed purchase prices and may change. The PCB cost includes manufacturing and shipping.*
+
+### Project Notes
+- Keyboard layout: 60% ANSI.
+- Connectivity: Bluetooth Low Energy (BLE).
+- Firmware: ZMK.
+- Switch compatibility: Cherry MX-style mechanical switches.
+- Switch mounting: MX hot-swap sockets.
+- Lighting: Individually addressable per-key RGB using SK6812MINI-E LEDs.
+- Battery: Rechargeable 3.7V lithium polymer cell.
+- Layers: Two firmware layers, with Right Alt configured as the Fn key.
 
 ## Shoutout hackclub and the macondo program
 
