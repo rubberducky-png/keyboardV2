@@ -2,13 +2,13 @@
 
 A fully custom 61-key mechanical keyboard designed by me, including the PCB, case, firmware, and assembly.
 
-Funded With The Macondo Program
+Started With the Macondo Program and Finished with the Forge Program
 
 ## Features
 
 - Custom PCB designed from scratch
 - Hot-swappable MX-compatible switches
-- VIA firmware
+- ZMK firmware
 - Screw-in stabilizers
 - 3D printed two-piece tray mount case
 - Switch plate
@@ -45,15 +45,19 @@ Some of the biggest challenges included:
 ### OnShape Render
 
 #### Case
-<img width="1601" height="654" alt="Screenshot 2026-08-20 222908" src="https://github.com/user-attachments/assets/b33fddbe-147e-4642-8d50-def82bc8a32e" />
+<img width="1401" height="845" alt="image" src="https://github.com/user-attachments/assets/0df9c01a-283b-4ed9-98ff-5a62c992e601" />
+
+### Switch Plate
+<img width="1394" height="652" alt="image" src="https://github.com/user-attachments/assets/f2cf452c-596d-438e-a078-ca66a1b56f73" />
 
 
 ### PCB
-<img width="1919" height="1079" alt="Screenshot 2026-08-16 103832" src="https://github.com/user-attachments/assets/cdd52b1b-5f1f-4d87-a885-b6e2d17bd9be" />
+<img width="1599" height="589" alt="image" src="https://github.com/user-attachments/assets/9d47d23c-50db-463c-bd9c-821cc94eaaa6" />
 
 
 ### Assembly
-<img width="1919" height="1032" alt="Screenshot 2026-08-20 222702" src="https://github.com/user-attachments/assets/8f279e6a-98bf-4592-80f4-fa8ea8ea1d24" />
+<img width="1453" height="778" alt="image" src="https://github.com/user-attachments/assets/b20cf742-f34f-4446-9993-de6c50083e28" />
+<img width="1341" height="604" alt="image" src="https://github.com/user-attachments/assets/89bf1ebf-ddeb-4e28-b1af-81720d56bd0d" />
 
 
 
