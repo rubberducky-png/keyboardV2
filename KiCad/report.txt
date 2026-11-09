@@ -1,0 +1,22 @@
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-F_Cu.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-B_Cu.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-F_Paste.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-B_Paste.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-F_Mask.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-B_Mask.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\gideo\Downloads\Keyboard V2\keyboardV2-job.gbrjob'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-F_Cu.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-B_Cu.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-F_Paste.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-B_Paste.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-F_Mask.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-B_Mask.gbr'.
+Plotted to 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\gideo\Downloads\Keyboard V2\Keyboard V2\keyboardV2-job.gbrjob'.
+Info: Done.
+Info: Done.
