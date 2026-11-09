@@ -43,6 +43,7 @@ Some of the biggest challenges included:
 <img width="1280" height="754" alt="Screenshot 2026-07-24 220902" src="https://github.com/user-attachments/assets/bbcec30d-22e3-4f54-ae42-53581c906ddc" />
 
 ### OnShape Render
+- assembly file is public at: https://cad.onshape.com/documents/9cbec0f54e40138e58fcc79a/w/808f2acb50a46c5c63af6f12/e/cd5daac02ca5b9e828f3d085
 
 #### Case
 <img width="1401" height="845" alt="image" src="https://github.com/user-attachments/assets/0df9c01a-283b-4ed9-98ff-5a62c992e601" />
