@@ -81,14 +81,15 @@ The following table lists the components required to build the custom 60% wirele
 | 11 | [Womier Double-Shot PBT Keycaps](https://www.amazon.com/Keycaps-Doubleshot-Percent-Mechanical-Keyboard/dp/B0DDC6PNY6) | Cherry-profile double-shot PBT keycap set | 1 set | $17.99 | $17.99 |
 | 12 | [22µF 0805 MLCC Capacitors](https://www.amazon.com/Chip-Capacitor-MLCC-22uF-CS2012X5R226M250NRE/dp/B096WDCLWY) | X5R ceramic capacitors for power filtering, 10-pack | 10 | $0.499 | $4.99 |
 | 13 | [CHANZON 100nF 0805 Capacitors](https://www.amazon.com/CHANZON-100nF-Ceramic-Capacitor-100pcs/dp/B0GWH4RRQS) | LED decoupling capacitors, 100-pack | 100 | $0.076 | $7.60 |
+| 14 | [0805 SMD Resistors 470 ohms](https://www.amazon.com/HiLetgo-Values-Resistors-Assortment-Resistor/dp/B07R5S5RFK/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.QrbL5hsl3y3O6gmstmy_4ZD0PpMRLFJ7NhmAE3dIEMUj69VnxSscBgx1Y_NvgiuXhPPsI573Q7wFUPvs_THPc2HkjAqAmswXhBcCxd4afR0o-SfQNniGOnE40pkLAjc971XgZG_Vreq0zhsYtezMDwFAChPOIei81v4d8d9fdSgrF1oYQbbqwz3Tw8FshrM3dyWXSGyEhGIDRhhHlnimh7bHPPrxl0DcY0hEvuhDMCE.ricUM_RpbJ0mivxPTOZyA8MBNaog89FuJmiqJ4fPW4c&dib_tag=se&keywords=450+ohm+0805+SMD+resistor&qid=1794352900&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | 0805 resistors, 400 pack | 400 | | $6.89
 
 ### Cost Summary
 
 | Category | Cost |
 |---|---:|
-| Components and hardware | $134.07 |
+| Components and hardware | $140.96 |
 | PCB fabrication and shipping | $35.03 |
-| **Total Project Cost** | **$169.10** |
+| **Total Project Cost** | **$175.99** |
 
 *Prices are based on the listed purchase prices and may change. The PCB cost includes manufacturing and shipping.*
 
